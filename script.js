@@ -31,7 +31,7 @@ const docs = [
         title: "Creation of a GIS method-tool to support decision-making for submarine cable laying",
         description:
             "As part of this project, we conducted an in-depth study to identify the critical criteria influencing the placement of submarine cables. Leveraging ArcGIS Pro, we developed a dynamic mapping tool capable of integrating multiple variables and visualizing the optimal pathways for cable deployment.",
-        url: "assets/cable.jpg",
+        url: "assets/cable.png",
         tags: ["GIS"]
     }    
 ];
